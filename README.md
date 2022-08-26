@@ -1,4 +1,3 @@
-[![MasterHead]((D:/b). SKILLS & COURSES/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Asish Khanagwal</h1>
 <h3 align="center">Front-End Web Developer</h3>
 
