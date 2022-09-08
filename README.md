@@ -9,6 +9,7 @@
     <li>💬 Ask me about DevOps:avocado:	& Web-Development</li>
     <li>:zap: Helping folks to get started with open source</li>
     <li>:tickets: Founded <a href="https://twitter.com/codeforcomm"/><b>Code For Community</b><a> :point_left: Gateway to Open Source</li>
+    <li>:palm_tree: Connect with me on <a href="https://linktr.ee/Ashish_Khanagwal">Socials</a> </li>
 </ul>
 <hr>
 
