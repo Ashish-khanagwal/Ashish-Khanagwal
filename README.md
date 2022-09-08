@@ -7,4 +7,4 @@
 <img width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khanagwal&theme=tokyonight" alt="ashish-khanagwal" />
 </p>
 
-<p align="center" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Khanagwal&theme=tokyonight&layout=compact)](https://github.com/Ashish-Khanagwal/github-readme-stats)</p>
+<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Khanagwal&theme=tokyonight&layout=compact)](https://github.com/Ashish-Khanagwal/github-readme-stats)</p>
