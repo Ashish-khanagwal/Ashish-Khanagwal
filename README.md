@@ -20,12 +20,6 @@
 <a href="https://www.linkedin.com/in/ashish-khanagwal-890326213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
     
-<h3>Join <b>Code For Community</b> to get started with Open Source and to collaborate on Open Source projects</h3>
-    
-<p align="center">
-<a href="https://twitter.com/codeforcomm"><img width=300px src="https://user-images.githubusercontent.com/75534912/189049257-e912315a-b8dc-46a9-b4af-726c423b1718.png"/></a>
-</p>
-    
 <hr>
 
 <p align="center">
