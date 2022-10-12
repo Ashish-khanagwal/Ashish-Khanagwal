@@ -25,8 +25,5 @@
 <hr>
 
 <p align="center">
-<img 
-    width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Khanagwal&theme=tokyonight&layout=compact" 
-/>
 <img width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-khanagwal&theme=tokyonight" alt="ashish-khanagwal" />
 </p>
