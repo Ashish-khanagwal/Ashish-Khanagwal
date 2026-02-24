@@ -20,7 +20,6 @@ Deep in build mode - working on AI systems, MLOps, and developer tooling around 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
 <img src="https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white">
 <img src="https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F">
-<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/>
 </p>
 
 <h2>WHAT I’M BUILDING</h2>
@@ -47,10 +46,20 @@ Deep in build mode - working on AI systems, MLOps, and developer tooling around 
 </div>
 
 <div>
-   <h2>GitHub Stats</h2>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashish-khanagwal&theme=darcula">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashish-khanagwal&theme=darcula&utcOffset=8">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ashish-khanagwal&theme=dark" alt="GitHub Streak" /></a>
+   <h2>GitHub Activity</h2>
+   <p align="center">
+      <img width="60%" src="./github-metrics.svg" alt="GitHub Metrics" />
+   </p>
+</div>
+
+<div>
+   <h2>
+      📝 Writings & Research
+   </h2>
+   <ul>
+      <h4>📄 Research</h4>
+      <li><a href="https://www.irejournals.com/index.php/paper-details/1704501">Smart Street Light System Using IoT</a></li>
+   </ul>
 </div>
 
 <div>
@@ -61,6 +70,9 @@ Deep in build mode - working on AI systems, MLOps, and developer tooling around 
       </a>
       <a href="https://www.instagram.com/i.ashishkhanagwal/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/ashish-khanagwal-890326213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://hashnode.com/@iashishkhanagwal">
+         <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
+      </a>
       <a href="https://www.twitch.tv/ashishkhanagwal">
          <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
       </a>
@@ -68,4 +80,10 @@ Deep in build mode - working on AI systems, MLOps, and developer tooling around 
          <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
       </a>
    </p>
+</div>
+
+<div>
+   <h2>GitHub Stats</h2>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashish-khanagwal&theme=darcula">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashish-khanagwal&theme=darcula&utcOffset=8">
 </div>
