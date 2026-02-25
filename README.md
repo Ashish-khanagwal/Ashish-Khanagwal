@@ -1,4 +1,4 @@
-<h1>Hey 👋 I'm Ashish Khanagwal</h1>
+<h1>Hey 👋 I'm <a href="https://ashishkhanagwal.bio.link/">Ashish Khanagwal</a></h1>
 
 <h3>
 MLOps Engineer • Founder @ <a href="https://www.croovi.com/">Croovi</a>
