@@ -1,4 +1,4 @@
-<h1>Hey 👋 I'm <a href="https://ashishkhanagwal.bio.link/">Ashish Khanagwal</a></h1>
+<h1>Hey 👋 I'm <a href="https://ashish-khanagwal.github.io/ashish-khanagwal-portfolio/#">Ashish Khanagwal</a></h1>
 
 <h3>
 MLOps Engineer • Founder @ <a href="https://www.croovi.com/">Croovi</a>
@@ -65,10 +65,10 @@ Deep in build mode - working on AI systems, MLOps, and developer tooling around 
 <div>
    <h2>Connect</h2>
    <p>
-      <a href="https://x.com/iashishkhangwal">
+      <a href="https://x.com/TheAshrex">
          <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
       </a>
-      <a href="https://www.instagram.com/i.ashishkhanagwal/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+      <a href="https://www.instagram.com/theashrex"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/ashish-khanagwal-890326213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <a href="https://hashnode.com/@iashishkhanagwal">
          <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
