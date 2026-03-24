@@ -22,16 +22,33 @@ Deep in build mode - working on AI systems, MLOps, and developer tooling around 
 <img src="https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F">
 </p>
 
-<h2>WHAT I’M BUILDING</h2>
-<h4><a href="https://github.com/Ashish-khanagwal/croofx">🔹 CrooFx</a> - That turns AI from a code assistant into a controlled execution</h4>
-<p>Turning LLM outputs into production-safe systems through:</p>
-<ul>
-   <li>Repo-aware analysis</li>
-   <li>Deterministic patching</li>
-   <li>Dependency graph intelligence</li>
-   <li>Automated validation workflows</li>
-</ul>
-<h4><a href="https://croovi.com">⚡ Join the early access waitlist → </a></h4>
+## WHAT I'M BUILDING
+
+#### [🛡️ CrooFx](https://github.com/Ashish-khanagwal/croofx) — Deterministic enforcement layer between AI-generated code and your CI/CD pipeline
+Turning LLM outputs into production-safe systems through:
+- Repo-aware analysis
+- Deterministic patching
+- Dependency graph intelligence
+- Automated validation workflows
+
+#### [⚡ Join the CrooFx waitlist →](https://croovi.com)
+
+---
+
+#### [🔁 CroFlux](https://croflux.vercel.app/) — Discipline as a product. Execution as a feedback loop.
+For builders who start a lot but don't finish. CroFlux turns your startup idea into:
+- Structured milestones + actionable tasks
+- Daily execution dashboard
+- Streaks, leaderboards, and boss battles to keep you shipping
+
+#### [⚡ Join the CroFlux waitlist →](https://croflux.vercel.app/)
+
+---
+
+#### 👁️ CroVew — Real-time behavioral analytics for SaaS founders
+Drop in a script tag, call `identify()` and `track()`, and instantly see who's active, what they're doing, and where they're dropping off. Under 5 minutes to integrate. Zero PII exposed by default.
+
+#### 🔒 CroVew waitlist coming soon
 
 <div>
    <h2>Croovi Ecosystem</h2>
